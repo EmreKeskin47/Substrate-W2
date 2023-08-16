@@ -1,0 +1,4 @@
+.DS_Store
+./target/*
+2-node-authorization/target/*
+3-node-update/target/*
